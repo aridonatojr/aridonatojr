@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, bem-vindo ao meu perfil.
 </p>    
 
- 👨‍💻  Meu nome é Ari Donato Jr, tenho 38 anos sou formado em Engenahria Civil e estou migrando para área de Engenharia de Dados
+ 👨‍💻  Meu nome é Ari Donato Jr, tenho 38 anos, sou formado em Engenahria Civil e estou migrando para área de Engenharia de Dados
  
 ### Skills
 <p align="left">
